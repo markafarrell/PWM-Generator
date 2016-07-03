@@ -1,0 +1,23 @@
+Circuit: * C:\Users\Mark\Documents\Electronics\Function Generator\Square.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Jun 19 14:21:35 2016
+Total elapsed time: 10.193 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 173931
+traniter = 173904
+tranpoints = 52616
+accept = 35497
+rejected = 17119
+matrix size = 100
+fillins = 140
+solver = Normal
+Thread vector: 56.0/38.9[2] 18.8/15.2[2] 10.4/8.6[2] 2.6/28.0[1]  2592/500
+Matrix Compiler1: 12.54 KB object code size  11.6/7.0/[4.1]
+Matrix Compiler2: 10.53 KB object code size  5.6/7.4/[3.6]
+
+
